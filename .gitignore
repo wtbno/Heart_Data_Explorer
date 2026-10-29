@@ -1,0 +1,7 @@
+ source /d/HealthData-Explorer/.venv/Scripts/activate
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/
+.DS_Store
