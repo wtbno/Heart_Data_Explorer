@@ -16,7 +16,7 @@ Os principais pontos abordados são:
 
 ## Fonte dos dados
 
-- Dataset: Heart Disease
+- Dataset: Heart disease dataset
 - Repositório: UCI Machine Learning Repository
 - DOI: 10.24432/C52P4X
 - Base utilizada: Cleveland database, com 14 atributos clássicos do problema
